@@ -1,0 +1,12 @@
+{
+  "name": "scout-ftp",
+  "version": "1.0.0",
+  "description": "Scout FTP example ",
+  "main": "index.js",
+  "author": "Scott Murphy",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
